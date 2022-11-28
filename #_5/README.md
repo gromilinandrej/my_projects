@@ -36,8 +36,4 @@ __Данные__
 
 __Используемые библиотеки__
 
-*pandas*
-*seaborn*
-*matplotlib*
-*numpy*
-*stats*
+*pandas, seaborn, matplotlib, numpy, stats*
